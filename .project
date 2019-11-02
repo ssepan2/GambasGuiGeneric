@@ -1,10 +1,12 @@
 # Gambas Project File 3.0
 Title=Gambas Gui Generic
 Startup=FMain
-Version=0.0.1
+Version=0.0.2
 Component=gb.image
 Component=gb.gui
 Component=gb.form
+Component=gb.settings
+TabSize=4
 Translate=1
 Language=en_US
 Packager=1
