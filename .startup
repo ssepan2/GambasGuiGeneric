@@ -1,12 +1,14 @@
-FMain
+Main
 Gambas Gui Generic
 0
 0
-0.5.1
+0.6.1
 
+gb.args
 gb.image
 gb.gui
 gb.form
 gb.settings
-:stephensepan/DockAnchor:0.3
+:stephensepan/AppUtility:0.1
+:stephensepan/DockAnchor:0.4
 
