@@ -2,15 +2,15 @@ Main
 Gambas Gui Generic
 0
 0
-0.14.2
+0.14.3
 
 gb.args
 gb.image
 gb.gui
 gb.form
 gb.settings
-:stephensepan/GambasAppUtilityLib:0.3
-:stephensepan/DockAnchor:0.6
-:stephensepan/GambasSomeModelLib:0.3
-:stephensepan/GambasGuiAppUtilityLib:0.3
+:sjsepan/GambasGuiAppUtilityLib:0.3
+:sjsepan/DockAnchor:0.6
+:sjsepan/GambasAppUtilityLib:0.3
+:sjsepan/GambasSomeModelLib:0.3
 
