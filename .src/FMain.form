@@ -147,7 +147,7 @@
     }
     { MenuHelpCheckForUpdates Menu
       Action = "HelpCheckForUpdates"
-      Text = Shortcut(("Check for Updates"), "C")
+      Text = Shortcut(("Check for Updates"), "U")
     }
     { Menu7 Menu
     }
@@ -160,7 +160,7 @@
   { ToolBarActions Panel
     MoveScaled(1,0,112,4)
     Expand = True
-      { ToolButtonFileNew ToolButton
+    { ToolButtonFileNew ToolButton
       MoveScaled(0,0,4,4)
       ToolTip = ("New")
       Action = "FileNew"
